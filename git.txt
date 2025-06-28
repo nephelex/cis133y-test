@@ -1,4 +1,4 @@
-Listen to the hummingbird
-who's wings you cannot see
-listen to the hummingbird
-don't listen to me
+1. Create repo on GitHub
+2. Clone repo to local machine
+3. Check out a branch to make changes
+4. Push the branch up to github
